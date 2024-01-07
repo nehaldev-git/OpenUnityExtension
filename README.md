@@ -7,6 +7,6 @@ This OpenExtension enable user to access custom editor option in the scene viewp
 
 Change log- 07/01/2024
 
-Added Scene Switch Overlay Extension
+1 Added Scene Switch Overlay Extension
 
-Added Transform Overlay Extension
+2 Added Transform Overlay Extension
